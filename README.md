@@ -201,6 +201,7 @@ The successful transfer:
 ### 5. Delegating and Undelegating Tokens
 
 Delegating 10 CSPR:
+
 ![delegation details](5-delegation/delegation_details.png)
 
 ![confirm delegation](5-delegation/confirm_delegation.png)
@@ -212,6 +213,7 @@ Delegating 10 CSPR:
 ![delegation completed](5-delegation/delegation_completed.png)
 
 Undelegate 10 CSPR:
+
 ![undelegation details](5-delegation/undelegation_details.png)
 
 ![confirm undelegation](5-delegation/confirm_undelegation.png)
