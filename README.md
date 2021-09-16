@@ -179,7 +179,7 @@ I decided to go with **Scenario 4: managing lost or stolen keys** to demonstrate
 10. Attempt a transfer with the lost keys, results in an error.
 ```
 
-### 4. Direct Toke Transfer
+### 4. Direct Token Transfer
 After following the prerequisites, I was able to set up an account that I could transfer CSPR to another account with this command:
 ```
 casper-client transfer --id 1 --transfer-id 123456789012345 --node-address http://164.90.198.193:7777 --amount 2500000000 --payment-amount 1000 --secret-key secret_key.pem --chain-name casper-test --target-account 0148b69fa01d5b146493e154c453305825982eb87a103de7d0a3a7993dd18f3db1
